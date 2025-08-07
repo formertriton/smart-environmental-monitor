@@ -9,7 +9,7 @@ An end-to-end IoT environmental monitoring pipeline that demonstrates real-world
 # 🏗️ Architecture
 
 ```
-\[IoT Sensors] → \[Data Ingestion] → \[Processing Pipeline] → \[ML Analysis] → \[Dashboard + Alerts]
+[IoT Sensors] → [Data Ingestion] → [Processing Pipeline] → [ML Analysis] → [Dashboard + Alerts]
 ```
 ```
 Browser ← → FastAPI Server ← → Fake Data Generator
