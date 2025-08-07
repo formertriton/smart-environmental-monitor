@@ -16,6 +16,15 @@ Browser ← → FastAPI Server ← → Fake Data Generator
    ↑              ↑                    ↑
 Dashboard    REST API           Random Numbers
 ```
+```
+smart-environmental-monitor/
+├── src/
+│   └── simple_demo.py          ← Our entire app in ONE file
+├── config/
+│   └── settings.py             ← Configuration (not used yet)
+├── requirements-basic.txt      ← Python packages we need
+└── README.md                   ← Project description
+```
 
 # 🚀 Features
 
