@@ -1,0 +1,20 @@
+# Core Framework - These should install without issues
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Data Processing - Basic versions
+pandas==2.1.4
+numpy==1.25.2
+
+# Database - Try without psycopg2 first
+sqlalchemy==2.0.23
+redis==5.0.1
+
+# Basic utilities
+python-dotenv==1.0.0
+loguru==0.7.2
+
+# Testing
+pytest==7.4.3
